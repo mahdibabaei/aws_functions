@@ -1,3 +1,6 @@
 [submodule "MyTestRepo"]
 	path = MyTestRepo
 	url = https://github.com/mahdibabaei/MyTestRepo.git
+[submodule "function_1"]
+	path = function_1
+	url = ../function_1.git
