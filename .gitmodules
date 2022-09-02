@@ -1,0 +1,3 @@
+[submodule "MyTestRepo"]
+	path = MyTestRepo
+	url = https://github.com/mahdibabaei/MyTestRepo.git
